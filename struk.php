@@ -1,5 +1,5 @@
 <?php
-require 'config.php';
+require 'vendor/autoload.php';
 ?>
 <!DOCTYPE html>
 <html lang="id">
